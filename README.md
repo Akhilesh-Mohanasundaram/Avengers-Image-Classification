@@ -26,7 +26,7 @@ This Flutter project is an Avengers image classification app that uses TensorFlo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/clubproject.git
+   git clone https://github.com/Akhilesh-Mohanasundaram/clubproject.git
    cd clubproject
    ```
 
@@ -93,8 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, please contact [your-email@example.com].
-
-```
-
-This README file provides a comprehensive overview of the project, including installation steps, usage instructions, dependencies, and contact information. Make sure to replace placeholders like `your-username` and `your-email@example.com` with your actual GitHub username and contact email. Additionally, add actual screenshots of your app in the `assets/screenshots/` directory and update the paths accordingly.
+For any inquiries or issues, please contact [akhileshmohan2005@gmail.com].
