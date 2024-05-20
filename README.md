@@ -82,7 +82,10 @@ This Flutter project is an Avengers image classification app that uses TensorFlo
 ![Main Screen](mainscreen.PNG)
 
 ### Execution Video
-[![Execution Video](splashscreen.PNG)](avengers_classification.mp4)
+
+https://github.com/Akhilesh-Mohanasundaram/Avengers-Image-Classification/assets/165802240/a76c1bab-1aae-40c4-8135-2caa09a0d793
+
+
 
 ## License
 
